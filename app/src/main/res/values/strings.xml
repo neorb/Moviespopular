@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movies popular</string>
+    <string name="error_message">Failed to get results. Check your Internet Connection </string>
+
+    <!-- Details -->
+    <string name="detail_title">Movie Title</string>
+    <string name="detail_plot_synopsis">A synopsis is a brief retelling of your story designed to generate interest. Its your verbal pitch in written form</string>
+    <string name="detail_rate">Top Rated</string>
+    <string name="detail_release_date">Date Release</string>
+
+    <!-- About -->
+    <string name="credits_title">Popular Movies Stage 1</string>
+    <string name="credits_program">Android Developer Nanodegree Program</string>
+    <string name="credits_team">Thanks to all peoples behind the stage. </string>
+    <string name="estoesunaprueba">prueba</string>
+
+    <!--Detail-->
+    <string name="label_rate">Rate: </string>
+    <string name="label_release_date">Release Date: </string>
+    <string name="label_overview">Overview: </string>
+
+    <!-- Menu -->
+    <string name="popular">Most Popular</string>
+    <string name="top_rated">Highest Rated</string>
+    <string name="action_about">About</string>
+
+
+</resources>
